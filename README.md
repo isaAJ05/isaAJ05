@@ -1,6 +1,7 @@
 ## Hi there 👋
-- 🔭 I’m currently working on numeric methods
-- 🌱 I’m currently learning about Networks
+- 🔭 I’m currently working on a Dashboard Project
+- 🌱 I’m currently learning about JavaScript, HTML, and CSS
+- ⚡ Fun fact: coding is better at night
 <!--
 **isaAJ05/isaAJ05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
